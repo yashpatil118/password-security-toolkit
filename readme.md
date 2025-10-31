@@ -45,10 +45,9 @@ Perfect for security awareness training, password policy implementation, or as a
 ## 📸 Screenshots
 
 
-```
-pow1.png
-pow2.png
-```
+![Password Checker](./pow1.png)
+![Hash Generator](./pow2.png)
+
 
 ## 🛠️ Technologies Used
 
