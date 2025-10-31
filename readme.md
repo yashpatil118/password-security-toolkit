@@ -39,16 +39,15 @@ Perfect for security awareness training, password policy implementation, or as a
   - Checksum generation
   - Educational purposes
 
-## 🚀 Demo
-
+## 🚀 [Demo](https://yashpatil118.github.io/password-security-toolkit/)
 
 
 ## 📸 Screenshots
 
 
 ```
-[pow1.jpg]
-[pow2.jpg]
+pow1.png
+pow2.png
 ```
 
 ## 🛠️ Technologies Used
@@ -152,9 +151,9 @@ This tool is designed for educational and personal use. While it provides helpfu
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Yash Patil**
 - GitHub: [@yashpatil118](https://github.com/yashpatil118)
-- LinkedIn: [](https://linkedin.com/in/yourprofile)
+- LinkedIn: [follow](https://www.linkedin.com/in/yash-patil-069820252/)
 
 ## 🙏 Acknowledgments
 
